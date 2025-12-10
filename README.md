@@ -49,31 +49,31 @@ Một ứng dụng thời tiết hiện đại, đầy đủ tính năng đượ
 -----
 
 ## 📸 Giao diện Ứng dụng (Screenshots)
-* Màn hình chính 
+# Màn hình chính 
 ![home](images/home.png)
-* Hiển thị thông tin thời tiết 
+# Hiển thị thông tin thời tiết 
 ![TTthoitiet](images/TTthoitiet.png)
-* Dự báo các giờ tiếp theo và 5 ngày sau 
+# Dự báo các giờ tiếp theo và 5 ngày sau 
 ![hourly and 5 days forecast](images/hourly_and_5days_forecast.png)
-* Setting
+# Setting
 ![Setting](images/Setting.png)
-* Các loại bản đồ 
+# Các loại bản đồ 
 ![Map1](images/map1.png)
 
 ![Map2](images/map2.png)
 
 ![Map3](images/map3.png)
-* Thành phố yêu thích 
+# Thành phố yêu thích 
 ![City_love](images/citylove.png)
 
 ![City_love1](images/City_love1.png)
-* Tìm Kiếm
+# Tìm Kiếm
 ![search](images/search.png)
-* So sánh thành phố 
+# So sánh thành phố 
 ![SS_city](images/SS_city.png)
-* Cảnh báo thời tiết 
+# Cảnh báo thời tiết 
 ![Canhbao](images/Canhbao.png)
-* Tiện ích 
+# Tiện ích 
 ![Widget](images/Widget.png)
 
 -----
